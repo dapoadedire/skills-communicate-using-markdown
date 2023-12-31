@@ -19,3 +19,9 @@ Resolving deltas: 100% (507/507), done.
 
 
 ```
+
+
+- [ ] Research potential networking events related to my industry
+- [ ] Update my LinkedIn profile with new skills and experiences
+- [ ] Create a schedule for practicing a new hobby or skill
+- [ ] Read a book on personal development or professional growth
